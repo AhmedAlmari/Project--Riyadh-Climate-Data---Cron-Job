@@ -107,4 +107,3 @@ sudo service cron start/stop/restart/status*
 
 Just select which one you want to do, not all of them as written above in the example of course.
 
-In summary,
